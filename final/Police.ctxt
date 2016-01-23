@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\nPolice\ officers\ move\ across\ the\ xaxis\ and\ try\ to\ stop\ banksy\r\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ Policemen\ movement\r\n
+comment2.params=
+comment2.target=void\ removePolice()
+comment2.text=\r\n\ Remove\ Police()\r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Actions\ per\ cycle\r\n
+comment1.params=
+comment1.target=void\ movement()
+comment1.text=\r\n\ Movement\ across\ the\ street\r\n
+comment2.params=
+comment2.target=void\ removeCan()
+comment2.text=\r\n\ Remove\ Cans()\r\n
+numComments=3

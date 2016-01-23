@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Bansky\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ boundaries()
+comment1.text=\r\n\ BAnksy's\ boundaries\r\n
+comment2.params=
+comment2.target=void\ movement()
+comment2.text=\r\n\ Banksy's\ ability\ to\ move\r\n
+comment3.params=
+comment3.target=void\ collection()
+comment3.text=\r\n\ Remove\ cans,\ collection\r\n
+comment4.params=
+comment4.target=void\ addArt()
+comment5.params=
+comment5.target=void\ loseLife()
+comment5.text=\r\n\ Lose\ a\ life\ when\ touching\ a\ police\r\n
+comment6.params=
+comment6.target=void\ endTrack()
+comment6.text=\r\n\ End\ track\r\n
+numComments=7
